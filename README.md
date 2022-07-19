@@ -20,8 +20,8 @@ Steps to follow to install Horiseon project:
 ## Usage
 You will be asked a question; the quiz will provide you will four answer choices. Pick wisely!
 
-<img width= "685" alt="Screenshot1" src=“./quiz.png”>
-<img width= "685" alt="Screenshot2" src=“./quiz2.png”>
+<img width= "685" alt="Screenshot1" src=“quiz.png”>
+<img width= "685" alt="Screenshot2" src=“quiz2.png”>
 
 ## License
 
