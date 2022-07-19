@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Code Quiz</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="infoBox">
+      <div class="infoTitle">Before you Start</div>
+      <div class="infoList">
+        <ul>
+          <li class="info">• You have 20 seconds per question.</li>
+          <li class="info">
+            • You can not select any options once the timer hits zero.
+          </li>
+          <li class="info">• You can only pick one answer, so pick wisely.</li>
+          <li class="info">
+            • You can skip questions but it will count as wrong.
+          </li>
+        </ul>
+      </div>
+      <button class="start-btn">Start</button>
+    </div>
+    <div class="quizContainer">
+      <header>
+        <div class="timer">
+          <div class="timerDisplay">--</div>
+        </div>
+        <div class="displayQuestionCounter"></div>
+      </header>
+      <section>
+        <div class="questionBox"></div>
+        <div class="optionsBox"></div>
+      </section>
+      <footer>
+        <button id="next-btn" class="next-btn">Next</button>
+      </footer>
+    </div>
+    <div class="resultsBox">
+      <div><strong>Great Job!</strong></div>
+      <div class="score_text"></div>
+      <div id="last-score"></div>
+      <button class="restart-btn">Replay</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
