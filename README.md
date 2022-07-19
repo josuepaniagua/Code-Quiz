@@ -7,6 +7,7 @@ Test your knowledge of Javascript with this wonderful quiz. There are 10 differe
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Credit](#credit)
 - [License](#license)
 
 ## Installation
@@ -20,8 +21,16 @@ Steps to follow to install Horiseon project:
 ## Usage
 You will be asked a question; the quiz will provide you will four answer choices. Pick wisely!
 
-<img src=“quiz.png”>
-<img src=“quiz2.png”>
+<img width= "685" alt="Screenshot1" src=“quiz.png”>
+<img width= "685" alt="Screenshot2" src=“quiz2.png”>
+
+## Credit
+
+James Q Quick - 
+Youtube video: https://www.youtube.com/watch?v=DFhmNLKwwGw 
+
+Brian Design -
+Youtube video: https://www.youtube.com/watch?v=f4fB9Xg2JEY&t=19s
 
 ## License
 
