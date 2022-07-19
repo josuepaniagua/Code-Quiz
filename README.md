@@ -7,7 +7,7 @@ Test your knowledge of Javascript with this wonderful quiz. There are 10 differe
 
 - [Installation](#installation)
 - [Usage](#usage)
--[Credit](#credit)
+- [Credit](#credit)
 - [License](#license)
 
 ## Installation
